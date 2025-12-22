@@ -9,7 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Download Research Resume
+
+
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/CV_MariaCarreno.pdf" class="btn btn--inverse">Download CV as PDF</a>
+
+</div>
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -61,4 +68,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

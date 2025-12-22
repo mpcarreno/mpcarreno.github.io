@@ -17,6 +17,6 @@ My professional interests focus on integrating security principles into system d
 Interests
 ------ 
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+<!-- Example: editing a Markdown file for a talk
+![Editing a Markdown file for a talk](/images/editing-talk.png) -->
 

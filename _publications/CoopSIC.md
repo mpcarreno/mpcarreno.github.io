@@ -13,4 +13,10 @@ paperurl: 'https://mpcarreno.github.io/files/coopsic.pdf'
 
 
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a 
+### Authors: Sergio Lavao, Maria Carreno
+
+
+
+The objective of this project is to evaluate the performance of the Cooperative SIC technique in cellular networks, both analytically and through simulations. The study aims to derive analytical expressions for SIC under small-scale fading conditions and to assess its benefits across different network configurations, including varying reuse factors, trisector transmitter placements, and power control schemes.
+
+![OMAvsCOOPSICvsIAN](/images/coopsic/OMAvsCOOPSICvsIAN.png)

@@ -3,11 +3,24 @@ title: "PLUMABot"
 collection: publications
 category: conferences
 permalink: /publication/PlumaBot
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Design of a open-Source 2DoF planar low cost robot controlled using Python based on given Blender coordinate
+points. Automation of Path Planning and implementation of Inverse and Forward Dynamics and Kinematics using
+Matlab'
 date: 2022-02-17
 venue: 'Pontificia Universidad Javeriana'
 paperurl: 'https://mpcarreno.github.io/files/PlumaBot.pdf'
 
 ---
+### Authors: Sergio Lavao, Maria Carreno
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+
+Design of a open-Source 2DoF planar low cost robot controlled using Python based on given Blender coordinate
+points. Automation of Path Planning and implementation of Inverse and Forward Dynamics and Kinematics using
+Matlab
+
+<div class="cv-download-links">
+  <a href="https://github.com/SergioLavao/PlumaBot">Github Repository</a>
+</div>
+
+![plumatrajectory](/images/plumabot/pluma-trajectory.png)
+
