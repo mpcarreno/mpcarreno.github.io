@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,13 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-Download Research Resume
+Academic Resume
 
 
 <div class="cv-download-links">
-  <a href="{{ base_path }}/files/CV_MariaCarreno.pdf" class="btn btn--inverse">Download CV as PDF</a>
+  <a href="{{ base_path }}/files/CV_MariaCarreno.pdf" class="btn btn--inverse">Download Academic Resume as PDF</a>
 
 </div>
+
+Industry Resume
+
+<div class="cv-download-links">
+  <a href="{{ base_path }}/files/CV_MariaPaulaCarreno_Eng.pdf" class="btn btn--inverse">Download Industry Resume as PDF</a>
+
+</div>
+
 <!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
