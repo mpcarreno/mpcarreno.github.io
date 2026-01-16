@@ -1,4 +1,4 @@
-# María Carreño - Academic Portfolio
+# María Carreño - Portfolio
 
 Personal website showcasing some of my personal and professional portfolio
 
